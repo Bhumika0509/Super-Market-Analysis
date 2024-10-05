@@ -5,7 +5,6 @@
 
 This project focuses on the analysis of supermarket sales data, with the aim of understanding customer purchasing behavior, identifying trends, and providing actionable insights for optimizing sales strategies. By leveraging data analytics and visualization techniques, this analysis uncovers critical insights that can help businesses make informed decisions to increase profitability.
 
-![Sales per Branch](https://github.com/YourUsername/YourRepo/raw/main/images/sales-branch-graph.png)
 
 
 ## Dataset
@@ -40,13 +39,13 @@ The analysis in this project includes the following steps:
 ### Visualizations
 
 - **Branch-wise Sales Comparison**: A bar chart showing the total sales of each branch.
-  ![Branch Sales](https://example.com/branch-sales-graph.png)
+
 
 - **Product Line Distribution**: Pie chart displaying sales share of each product line.
-  ![Product Line Pie](https://example.com/product-line-distribution.png)
+
 
 - **Customer Ratings**: Histogram of customer satisfaction ratings.
-  ![Ratings Histogram](https://example.com/ratings-histogram.png)
+
 
 ## Key Insights
 
