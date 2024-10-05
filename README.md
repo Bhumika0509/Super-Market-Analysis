@@ -5,7 +5,8 @@
 
 This project focuses on the analysis of supermarket sales data, with the aim of understanding customer purchasing behavior, identifying trends, and providing actionable insights for optimizing sales strategies. By leveraging data analytics and visualization techniques, this analysis uncovers critical insights that can help businesses make informed decisions to increase profitability.
 
-![Supermarket Image](https://example.com/path-to-supermarket-image.jpg)
+![Sales per Branch](https://github.com/YourUsername/YourRepo/raw/main/images/sales-branch-graph.png)
+
 
 ## Dataset
 
